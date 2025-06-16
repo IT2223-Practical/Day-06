@@ -15,6 +15,7 @@ This script demonstrates how to measure the execution time of a loop in MATLAB u
 
 ## lenearSearch.m ##
 Search for a specific value (index = 9) in the array a = [3, 5, 7, 9, 11, 13] using a linear search, and print its position if found.
+
 ![lenear](https://github.com/user-attachments/assets/d5f8be3f-3baa-4aa1-97aa-dc5c4e732d31)
 
 ## lenearSearchTime.m ##
